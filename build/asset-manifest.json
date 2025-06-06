@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PickEm/static/css/main.e6c13ad2.css",
+    "main.js": "/PickEm/static/js/main.e7c52232.js",
+    "index.html": "/PickEm/index.html",
+    "main.e6c13ad2.css.map": "/PickEm/static/css/main.e6c13ad2.css.map",
+    "main.e7c52232.js.map": "/PickEm/static/js/main.e7c52232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e7c52232.js"
+  ]
+}
